@@ -1,0 +1,11 @@
+MVP, construir uma tela de cadastro de cliente, com login, quando logado o cliente consegue cadastrar o carro dele
+
+Cliente
+nome
+email
+senha
+
+Carro
+modelo
+ano
+cor
